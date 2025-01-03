@@ -8,7 +8,7 @@ This project analyzes sales data from 2022 to 2023 and extends to insights from 
 Insights and recommendations are provided on the following key areas:
 - **Revenue by Country**: Identifying top-performing regions and trends.
 - **Temporal Trends**: Examining revenue, profit, and seasonal performance.
-- **Product Performance**: Evaluating top sellers and identifying opportunities for growth.
+- **Product Performance**: Evaluating top sellers and identifying growth opportunities.
 - **Discount Strategies**: Understanding the impact of discounts on revenue and profitability.
 - **Customer Segments**: Analyzing revenue patterns by customer type.
 
@@ -24,7 +24,8 @@ The company's main database structure includes detailed sales, product, customer
 - **Product Details**: Includes descriptions, categories, and price points.
 - **Customer Segments**: Tracks buyer personas such as enterprise, government, and creators.
 
-![Screenshot 2025-01-03 165325](https://github.com/user-attachments/assets/ec465789-bb9b-40bb-8493-9c69f939a4fa)
+![Screenshot 2025-01-04 001614](https://github.com/user-attachments/assets/b8052103-1015-4162-9161-885b8252a763)
+
 
 
 ---
@@ -74,7 +75,8 @@ Seasonality aligns with holiday-driven demand in Q4 and promotional spikes in Ju
 1. **Seasonal Campaigns**: Launch promotions aligned with Q4 and June trends.
 2. **Mid-Year Launches**: Introduce new products during off-peak months to balance sales.
 
-[Insert Seasonal Trends Line Graph]
+![Screenshot 2025-01-03 235438](https://github.com/user-attachments/assets/741dcf62-61ee-4d17-a5a8-629bbcc1b7cc)
+
 
 ---
 
@@ -90,7 +92,8 @@ Scarlett 2i2's versatility appeals to both creators and professionals, while MV7
 1. **Expand the Scarlett Ecosystem**: Introduce complementary products to boost cross-sells.
 2. **Optimize Pricing for MV7**: Reduce discounts for less price-sensitive buyers.
 
-[Insert Product Performance Pie Chart]
+![Screenshot 2025-01-04 000002](https://github.com/user-attachments/assets/1d624671-48e2-4ba4-8a05-c6f5eb974536)
+
 
 ---
 
@@ -106,7 +109,8 @@ Medium discounts work best across segments, while high discounts require careful
 1. **Focus on Medium Discounts**: Apply selectively for maximum impact.
 2. **Reevaluate High Discounts**: Limit to inventory clearance or market penetration.
 
-[Insert Discount Performance Comparison Chart]
+![Screenshot 2025-01-04 000542](https://github.com/user-attachments/assets/51c2442e-0fb5-41ad-9d25-57b99ccf40e9)
+
 
 ---
 
@@ -116,13 +120,14 @@ Medium discounts work best across segments, while high discounts require careful
 - **Enterprise customers grew by 197.93% in 2023**, reflecting successful B2B strategies.
 
 #### **Analysis**
-Institutional markets offer volume but require careful discount management, while B2B growth highlights potential for customized solutions.
+Institutional markets offer volume but require careful discount management, while B2B growth highlights the potential for customized solutions.
 
 #### **Recommendations**
 1. **Enterprise Relations**: Expand customized bundles for enterprise clients.
 2. **Enhance B2C Engagement**: Focus on creators and small businesses to diversify revenue streams.
 
-[Insert Customer Segmentation Bar Chart]
+![Screenshot 2025-01-04 000941](https://github.com/user-attachments/assets/b4410f99-e93c-4cb8-99a3-4c6b405397d3)
+
 
 ---
 
@@ -145,6 +150,6 @@ This analysis was based on several assumptions:
 
 ---
 
-Explore the interactive dashboard for more insights or contact me for tailored recommendations.  
-[Insert Dashboard Link]
+You can explore the interactive dashboard for more insights.  
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRmYzIyMTctNmQ5ZC00YjBhLWFmYTUtNzhlYWVhNGRlZWIxIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
