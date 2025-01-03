@@ -24,7 +24,8 @@ The company's main database structure includes detailed sales, product, customer
 - **Product Details**: Includes descriptions, categories, and price points.
 - **Customer Segments**: Tracks buyer personas such as enterprise, government, and creators.
 
-![Screenshot 2025-01-04 001614](https://github.com/user-attachments/assets/b8052103-1015-4162-9161-885b8252a763)
+![Screenshot 2025-01-03 165325](https://github.com/user-attachments/assets/d14fe105-dcea-4aa1-9411-debeef1cdcd5)
+
 
 
 
@@ -40,7 +41,8 @@ This analysis uncovered several critical insights driving sales and profitabilit
 4. **Discount strategies need optimization**, as medium discounts strike a balance, while excessive high discounts reduce profitability.
 5. **Enterprise customer growth surged by 197.93% in 2023**, reflecting successful B2B engagement.
 
-![Screenshot 2025-01-03 171048](https://github.com/user-attachments/assets/61216e08-51f6-4570-abd1-1d20057140ae)
+![Screenshot 2025-01-04 001614](https://github.com/user-attachments/assets/08cc5737-7bf5-4e1b-9c9b-ec4a267438b3)
+
 
 
 ---
@@ -59,7 +61,9 @@ Canada's success reflects a mature market with high product adoption, while Sout
 1. **Expand Marketing in South America**: Focus on localized campaigns to raise awareness.
 2. **Customer Retention Programs in Canada**: Use loyalty initiatives to maintain leadership.
 
-[Insert Geographic Revenue Heatmap]
+![Screenshot 2025-01-04 002611](https://github.com/user-attachments/assets/822acd99-91cf-4b35-b785-ef91f94b60b7)
+
+
 
 ---
 
