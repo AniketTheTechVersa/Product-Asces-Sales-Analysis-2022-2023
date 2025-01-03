@@ -12,8 +12,8 @@ Insights and recommendations are provided on the following key areas:
 - **Discount Strategies**: Understanding the impact of discounts on revenue and profitability.
 - **Customer Segments**: Analyzing revenue patterns by customer type.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].  
-Targeted SQL queries addressing various business questions can be found here [link].  
+The SQL queries used to inspect and transform the data for this analysis can be found [here](https://github.com/AniketTheTechVersa/Personal_Projects-Data-Anakytics/blob/main/Asces_Data_Transformation_queries.sql) 
+ 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRmYzIyMTctNmQ5ZC00YjBhLWFmYTUtNzhlYWVhNGRlZWIxIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9)
 
 ---
@@ -39,7 +39,8 @@ This analysis uncovered several critical insights driving sales and profitabilit
 4. **Discount strategies need optimization**, as medium discounts strike a balance, while excessive high discounts reduce profitability.
 5. **Enterprise customer growth surged by 197.93% in 2023**, reflecting successful B2B engagement.
 
-[Insert Visualization Snapshot: Trends and Highlights]
+![Screenshot 2025-01-03 171048](https://github.com/user-attachments/assets/61216e08-51f6-4570-abd1-1d20057140ae)
+
 
 ---
 
